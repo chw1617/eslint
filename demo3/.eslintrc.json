@@ -1,0 +1,15 @@
+{
+    "rules": {
+        "quotes": [2, "double"],
+        "semi": "error"
+    },
+    "env": {
+        "node": true,
+        "browser": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "requireConfigFile": false
+    },
+    "parser": "@babel/eslint-parser"
+}

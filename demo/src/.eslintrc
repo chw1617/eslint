@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "quotes": ["warn", "single"]
+  }
+  // "extends": "eslint:recommended"
+  // "root": true,
+}
